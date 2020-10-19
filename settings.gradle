@@ -1,0 +1,4 @@
+include ':androidlib'
+include ':kotlinlib'
+include ':app'
+rootProject.name = "Flip Backend Import App"
